@@ -1,0 +1,7 @@
+18:42:04.552 [main] INFO  org.Academy.HomePage - user1
+18:42:07.270 [main] INFO  org.Academy.HomePage - Navigated to login page
+18:42:09.524 [main] INFO  org.Academy.HomePage - user2
+18:47:56.590 [main] INFO  org.Academy.validateTitle - driver is initilized
+18:47:57.522 [main] INFO  org.Academy.validateTitle - Navigated to login page
+18:48:04.424 [main] INFO  org.Academy.validateTitle - successfully validated text message
+18:48:10.580 [main] INFO  org.Academy.validateNavigationBar - driver is initilized
