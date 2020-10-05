@@ -10,7 +10,7 @@ public class HomePageObjects extends base{
 
 	public WebDriver driver;
 	
-	By title = By.xpath("//h1[contains(text(),'Dashboard1')]");
+	By title = By.xpath("//h1[contains(text(),'Dashboard')]");
 	By navBar = By.xpath("//div[@class='menu']//b");
 	
 	
