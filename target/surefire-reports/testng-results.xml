@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="27111" started-at="2020-10-05T18:47:49 IST" finished-at="2020-10-05T18:48:16 IST">
+  <suite name="Suite" duration-ms="27232" started-at="2020-10-05T19:35:50 IST" finished-at="2020-10-05T19:36:17 IST">
     <groups>
     </groups>
-    <test name="Validating title" duration-ms="15443" started-at="2020-10-05T18:47:49 IST" finished-at="2020-10-05T18:48:05 IST">
+    <test name="Validating title" duration-ms="15868" started-at="2020-10-05T19:35:50 IST" finished-at="2020-10-05T19:36:06 IST">
       <class name="org.Academy.validateTitle">
-        <test-method status="PASS" signature="initilizer()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="initilizer" is-config="true" duration-ms="7764" started-at="2020-10-05T18:47:49 IST" finished-at="2020-10-05T18:47:57 IST">
+        <test-method status="PASS" signature="initilizer()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="initilizer" is-config="true" duration-ms="8319" started-at="2020-10-05T19:35:50 IST" finished-at="2020-10-05T19:35:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizer -->
-        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="basePageNavigation" duration-ms="6856" started-at="2020-10-05T18:47:57 IST" finished-at="2020-10-05T18:48:04 IST">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="basePageNavigation" duration-ms="6764" started-at="2020-10-05T19:35:58 IST" finished-at="2020-10-05T19:36:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="tearDown" is-config="true" duration-ms="771" started-at="2020-10-05T18:48:04 IST" finished-at="2020-10-05T18:48:05 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.Academy.validateTitle@7d20d0b]" name="tearDown" is-config="true" duration-ms="733" started-at="2020-10-05T19:36:05 IST" finished-at="2020-10-05T19:36:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.Academy.validateTitle -->
     </test> <!-- Validating title -->
-    <test name="Validating Navigationbars" duration-ms="11651" started-at="2020-10-05T18:48:05 IST" finished-at="2020-10-05T18:48:16 IST">
+    <test name="Validating Navigationbars" duration-ms="11350" started-at="2020-10-05T19:36:06 IST" finished-at="2020-10-05T19:36:17 IST">
       <class name="org.Academy.validateNavigationBar">
-        <test-method status="PASS" signature="initilizer()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="initilizer" is-config="true" duration-ms="6053" started-at="2020-10-05T18:48:05 IST" finished-at="2020-10-05T18:48:11 IST">
+        <test-method status="PASS" signature="initilizer()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="initilizer" is-config="true" duration-ms="6143" started-at="2020-10-05T19:36:06 IST" finished-at="2020-10-05T19:36:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizer -->
-        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="basePageNavigation" duration-ms="4736" started-at="2020-10-05T18:48:11 IST" finished-at="2020-10-05T18:48:16 IST">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="basePageNavigation" duration-ms="4505" started-at="2020-10-05T19:36:12 IST" finished-at="2020-10-05T19:36:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="tearDown" is-config="true" duration-ms="860" started-at="2020-10-05T18:48:16 IST" finished-at="2020-10-05T18:48:16 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.Academy.validateNavigationBar@1e66f1f5]" name="tearDown" is-config="true" duration-ms="700" started-at="2020-10-05T19:36:16 IST" finished-at="2020-10-05T19:36:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
